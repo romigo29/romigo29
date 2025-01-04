@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Igor 👋
+<!--[](https://komarev.com/ghpvc/?username=romigo29&color=0e75b6&)-->
 
+<p align="center">
+  <img height="50%"width="auto" src ="https://github-readme-stats.vercel.app/api?username=romigo29&show_icons=true&count_private=true&theme=merko&hide_border=true&hide=issues,contribs,prs&bg_color=00000001">
+  <img height="40%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=romigo29&layout=donut&hide_border=true&theme=merko&bg_color=00000001&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=romigo29&theme=merko&hide_border=true&background=FFFFFF00">
+</p>
 <!--
 **romigo29/romigo29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
