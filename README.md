@@ -14,5 +14,3 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=romigo29&color=0e75b6&style=pixel)
