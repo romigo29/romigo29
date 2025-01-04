@@ -1,6 +1,4 @@
 ## Hi there, I'm Igor 👋
-<!--[](https://komarev.com/ghpvc/?username=romigo29&color=0e75b6&)-->
-
 <p align="center">
   <img height="50%"width="auto" src ="https://github-readme-stats.vercel.app/api?username=romigo29&show_icons=true&theme=shadow_green&hide_border=true&hide=issues,contribs,prs&bg_color=00000001">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=romigo29&layout=donut&hide_border=true&theme=shadow_green&bg_color=00000001&langs_count=6">
@@ -16,3 +14,5 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=romigo29&color=0e75b6&style=pixel)
